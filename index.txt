@@ -9,16 +9,16 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+pateldevarsh@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 6355 200 928
 
 Birthday
-June 23, 1982
+Dec 06, 2000
 
 Location
-Sacramento, California, USA
+Pune, Maharastra, India
 
 # navbar
 
