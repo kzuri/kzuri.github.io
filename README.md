@@ -1,44 +1,31 @@
-# vCard - Personal portfolio
+# My Blog📰 & Portfolio👨‍💻
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Visit my personal website at <a href="https://clear-sleet.surge.sh/"><strong>➥ Live</strong></a>
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+### I am experienced in following areas:
 
-## Demo
+- Machine Learning
+- Deep Learning
+- Computer vision
+- NLP
+- MLOps
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+### 🛠 My Skills
 
-## Prerequisites
+- Python
+- PyTorch
+- Tensorflow
+- Keras
+- Scikit-learn
+- SQL
 
-Before you begin, ensure you have met the following requirements:
+## Author
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- [@kzuri](https://github.com/kzuri)
 
-## Installing vCard
+## 🔗 Links
 
-To install **vCard**, follow these steps:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarsh--patel)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_devarsh_patel)
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
+If you are interested in connecting with me or learning more about my work, please do not hesitate to reach out on [pateldevarsh1206@gmail.com 📧](mailto:pateldevarsh1206@gmail.com). I am always happy to connect with like-minded professionals and explore potential collaborations 
