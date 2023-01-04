@@ -1,6 +1,6 @@
 # My Blog📰 & Portfolio👨‍💻
 
-Visit my personal website at <a href="https://clear-sleet.surge.sh/"><strong>➥ Live</strong></a>
+Visit my personal website at <a href="https://kzuri.github.io/"><strong>➥ Live</strong></a>
 
 ### I am experienced in following areas:
 
