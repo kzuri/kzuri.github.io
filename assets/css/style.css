@@ -623,13 +623,14 @@ main {
   width: 100%;
   height: 100%;
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
   overflow-y: auto;
   overscroll-behavior: contain;
   z-index: 20;
   pointer-events: none;
   visibility: hidden;
+  flex-direction: column;
 }
 
 .modal-container::-webkit-scrollbar { display: none; }
@@ -1152,7 +1153,7 @@ main {
   width: 100%;
   height: 100%;
   border: none;
-  filter: grayscale(1) invert(1);
+  filter: grayscale(0) invert(0);
 }
 
 .contact-form { margin-bottom: 10px; }
